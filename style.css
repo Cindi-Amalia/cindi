@@ -1,0 +1,26 @@
+header{
+<background:  style="background-color: shadow;">
+}
+h1 {
+  color: purple;
+  font-family: verdana;
+  font-size: 260%;
+
+}
+body{
+	background-image: url('pink.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+}
+
+p  {
+  color: black;
+  font-family: courier;
+  font-size: 130%;
+}
+
+p {
+  border: 2px solid red;
+  padding: 30px;
+}
